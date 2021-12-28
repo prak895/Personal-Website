@@ -1,4 +1,4 @@
-# Portfolio
+# Personal Portfolio Website
 Built my own fully responsive personal portfolio website using HTML, CSS & Javascript and host it on Netlify where I will showcase my achievements, projects, skills and other basic stuff.
 
 Netlify: https://responsive-personal-portfolio.netlify.app/
